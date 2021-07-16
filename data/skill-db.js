@@ -9,6 +9,7 @@ const skills = [
   {text: 'HTML', learned: true, _id: 125223},
   {text: 'JavaScript', learned: true, _id: 127904},
   {text: 'Css', learned: true, _id: 139608},
+  {text: 'Java', learned: false, _id: 101010}
 ]
 
 function findByIdAndDelete(id, callback) {
